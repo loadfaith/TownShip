@@ -5,6 +5,15 @@
 /[Bb]uilds/
 /Assets/AssetStoreTools*
 
+/*.csproj
+/*.sln
+/build/build*
+UnityVS
+/Assets/UnityVS.meta
+.DS_Store
+*.o
+/build/*/*.a
+
 # Visual Studio 2015 cache directory
 /.vs/
 
